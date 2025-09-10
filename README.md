@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá, eu sou o André Oliveira  
 
-<!--
-**Andreoli0970/Andreoli0970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Estudante de **Quality Assurance (QA)** pela [TripleTen](https://tripleten.com/), em transição de carreira para a área de **Tecnologia**.  
 
-Here are some ideas to get you started:
+- 🔍 Interesses: Testes Manuais, Automação, API e Mobile  
+- 🛠️ Projetos em destaque: [Urban Routes](link-do-repo) | [Urban Lunch](link-do-repo)  
+- 🌍 Idiomas: Português (nativo), Espanhol (intermediário), Inglês (básico)  
+- 💼 LinkedIn: [andreoli70](https://linkedim.com/in/andreoli70)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📌 **Este é o repositório especial do meu perfil GitHub.**  
+Aqui você encontrará meus projetos, estudos e contribuições abertas.
